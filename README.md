@@ -76,7 +76,7 @@ Visualizes how car sales changed from 2010 to 2024.
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-10 123143.png)
+!Check the screenshots
 
 ---
 
