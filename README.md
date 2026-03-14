@@ -1,4 +1,4 @@
-# BMW-Sales-Analysis-PowerBI
+# BMW-Price-Analysis-PowerBI
 Interactive Power BI dashboard analyzing BMW sales trends, models, fuel types, and regional performance.
 
 ## Project Overview
